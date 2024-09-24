@@ -26,8 +26,7 @@ This application allows users to upload PDF files, extract their content, and pe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-faiss-matcher.git
-
+   git clone https://github.com/0304ajay/RAG
 ## Running
 1. streamlit run app.py
 2. Open the Link 
